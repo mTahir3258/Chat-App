@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310847755915",
+    "project_id": "messaging-application-c2598",
+    "storage_bucket": "messaging-application-c2598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310847755915:android:8d37e103f1526928bd268e",
+        "android_client_info": {
+          "package_name": "enginneer.tahir.messagingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQjiPwIUOiATDNcZYOSW4j_vLQ1fyqLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
